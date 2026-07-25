@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-hiypo8.antam89.site/sitemap.xml
